@@ -6,3 +6,6 @@ Repository for the Microelectronics HW SW Codesign lecture Project
 This project is managed from Taiga platform. To follow the status of the
 project, please check:
 https://tree.taiga.io/project/an2-microelectronics/
+
+For communication purposes, there is a slack channel available here:
+https://microelectronicsgroup.slack.com/
